@@ -3,7 +3,7 @@ Upscaling land surface fluxes through hyper resolution remote sensing in space, 
 
 *corresponding author (Email: yryu@snu.ac.kr)
 
-Data availability for Fig. 4
+Data availability for Figure. 4
 
 Files:
 ./reflectance
